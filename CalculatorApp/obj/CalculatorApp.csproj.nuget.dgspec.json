@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/addehblaise/Documents/GitProj/MyProject/CalculatorApp/CalculatorApp/CalculatorApp.csproj": {}
+    "/Users/addehblaise/Documents/GitProj/CollaboratorProject/MySampleForGit/CalculatorApp/CalculatorApp.csproj": {}
   },
   "projects": {
-    "/Users/addehblaise/Documents/GitProj/MyProject/CalculatorApp/CalculatorApp/CalculatorApp.csproj": {
+    "/Users/addehblaise/Documents/GitProj/CollaboratorProject/MySampleForGit/CalculatorApp/CalculatorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/addehblaise/Documents/GitProj/MyProject/CalculatorApp/CalculatorApp/CalculatorApp.csproj",
+        "projectUniqueName": "/Users/addehblaise/Documents/GitProj/CollaboratorProject/MySampleForGit/CalculatorApp/CalculatorApp.csproj",
         "projectName": "CalculatorApp",
-        "projectPath": "/Users/addehblaise/Documents/GitProj/MyProject/CalculatorApp/CalculatorApp/CalculatorApp.csproj",
+        "projectPath": "/Users/addehblaise/Documents/GitProj/CollaboratorProject/MySampleForGit/CalculatorApp/CalculatorApp.csproj",
         "packagesPath": "/Users/addehblaise/.nuget/packages/",
-        "outputPath": "/Users/addehblaise/Documents/GitProj/MyProject/CalculatorApp/CalculatorApp/obj/",
+        "outputPath": "/Users/addehblaise/Documents/GitProj/CollaboratorProject/MySampleForGit/CalculatorApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/addehblaise/.config/NuGet/NuGet.Config"
